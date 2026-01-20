@@ -33,24 +33,4 @@ It includes hands-on practice of React concepts, interview notes, and a visual d
 
 ---
 
- ## 🖼 React Concept Diagram (Detailed)
-
-```mermaid
-flowchart TD
-    A[React] --> B[Components]
-    A --> C[Virtual DOM]
-
-    B --> D[JSX]
-    B --> E[Props & State]
-    C --> F[Efficient UI Updates]
-
-    D --> G[Write HTML inside JS]
-    E --> H[Dynamic & Reusable Components]
-    F --> I[Only changed parts update]
-
-│
-┌──────────────┐
-│ JSX │
-│ HTML-like │
-│ in JS │
 └──────────────┘
