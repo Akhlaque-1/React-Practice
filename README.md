@@ -6,7 +6,7 @@ It includes hands-on practice of React concepts, interview notes, and a visual d
 ---
 
 ## 📝 Project Overview
-- **Framework:** React  
+- **Framework:** React 
 - **Build Tool:** Vite  
 - **Purpose:** Learning and practicing React components, JSX, Virtual DOM, and Vite setup.  
 - **Features Practiced:**  
